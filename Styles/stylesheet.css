@@ -1,0 +1,42 @@
+body {
+    background-color: black;
+}
+
+
+.title {
+  color: #fff;
+  font-size: 96px;
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+}
+
+.subtitle {
+  color: grey;
+  font-size: 24px;
+  font-family: sans-serif;
+  font-weight: bold;
+}
+
+.field {
+  align-self: center;
+}
+
+.button {
+  margin-top: 50px;
+  bottom: 0;
+  font-weight: bold;
+}
+
+#pass {
+    margin-top: 50px;
+    bottom: 0;
+    top: 175px;
+    left: 435px;
+    width: 405px;
+    height: 70px;
+    color: #000;
+    font-weight: bold;
+    font-size: 42px;
+    text-align: center;
+    border: 0 none;
+}
