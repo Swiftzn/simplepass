@@ -10,7 +10,7 @@ function password(length, special) {
   var password = "";
   var randomNumber;
   var oldRandomNumber;
-  var num = Math.floor(Math.random()*9000) + 1000;
+  var num = Math.floor(Math.random()*90000) + 10000;
   var snum = num.toString();
 
   if(special == undefined){
