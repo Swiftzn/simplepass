@@ -1,7 +1,7 @@
 $(document).ready(function() {
-  $("#pass").val(password(4));
+  $("#pass").val(password(5));
   $("#button").click(function() {
-     $("#pass").val(password(4));
+     $("#pass").val(password(5));
   });
 });
 
